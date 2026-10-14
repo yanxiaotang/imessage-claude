@@ -1,0 +1,13 @@
+{
+  "name": "imessage-claude",
+  "private": true,
+  "type": "module",
+  "description": "iMessage (Photon) -> Claude Agent SDK -> Claude Code",
+  "dependencies": {
+    "@anthropic-ai/claude-agent-sdk": "^0.3.281",
+    "@spectrum-ts/imessage": "^12.8.0",
+    "heic-convert": "^2.1.0",
+    "sharp": "^0.35.4",
+    "spectrum-ts": "^12.8.0"
+  }
+}
